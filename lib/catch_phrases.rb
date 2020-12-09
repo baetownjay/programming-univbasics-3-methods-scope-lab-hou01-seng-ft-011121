@@ -14,4 +14,6 @@ def link
 end
 
 def all_phrases
-  combo = 
+  combo = mario toadstool link
+  puts combo
+end
